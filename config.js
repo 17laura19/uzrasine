@@ -16,3 +16,4 @@ const firebaseConfig = {
 
 // ↓ Šios eilutės nekeisk
 window.FIREBASE_CONFIG = firebaseConfig;
+
